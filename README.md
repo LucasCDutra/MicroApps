@@ -1,2 +1,2 @@
-# MicroApps
-Micro Frontend, feito para aplicações Flutter
+# Micro Commons Design System
+Micro App responsavel pela UI e widgets comuns do projetos.
